@@ -1,6 +1,4 @@
 # EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
-### NAME: M.PAVITHRA
-### REG NO: 212222100032
 ## Aim:
 To move the files between virtual machine.
  You can move files between virtual machines in several ways:
